@@ -1,4 +1,4 @@
-TEMPLATE = {
+{
   "Maps": [
     {
       "Name": "NWEA-MAP_DataMap",
