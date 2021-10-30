@@ -1,6 +1,6 @@
 .env
+credentials.json
 service.json
-
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,windows,visualstudiocode

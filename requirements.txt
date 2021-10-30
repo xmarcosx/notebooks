@@ -1,7 +1,9 @@
+google-api-python-client
 jupyter
 ipykernel
 pandas
 pyarrow
 oauthlib
+oauth2client
 requests
 requests_oauthlib
